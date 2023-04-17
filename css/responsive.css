@@ -1,0 +1,285 @@
+@media (min-width: 279px) and (max-width: 319px){
+	/*css start*/
+	/*css end*/
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+	/*css start*/
+
+	.header{
+		padding: 10px 0px;
+	}
+	.navbar-toggler .fa{
+		color: #28377e;
+	}
+	.banner-section h1{
+		font-size: 38px;
+		line-height: 48px;
+	}
+	.about-us{
+		padding: 40px 0px;
+	}
+	.about-us .about-inner .title .divider{
+		width: 60px;
+		margin-left: 155px;
+	}
+	.about-us .about-inner .title h2{
+		font-size: 36px;
+		line-height: 46px;
+		text-align: center;
+	}
+	.about-us .about-inner p{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.what-do{
+		padding: 50px 0px;
+	}
+	.what-do .title {
+    	width: 100%;
+    	padding: 0px 0px 40px;
+	}
+	.what-do .title .divider{
+		width: 60px;
+	}
+	.what-do .title h2{
+		font-size: 36px;
+		line-height: 46px;
+	}
+	.inner-content h5{
+		font-size: 18px;
+	}
+	.img-fluid {
+    	padding-bottom: 10px;
+	}
+	.attorney .title {
+   	 	padding: 30px 0px 20px;
+	}
+	.attorney .title .divider{
+		width: 60px;
+		margin-left: 155px;
+	}
+	.attorney .title h2{
+		font-size: 36px;
+    	line-height: 46px;
+    	text-align: center;
+	}
+	.desktop{
+		display: none;
+	}
+	.mobile{
+		display: block;
+	}
+	.attorney{
+		padding: 20px 0px;
+	}
+	.attorney p{
+		font-size: 14px;
+		line-height: 24px;
+		text-align: center;
+		padding-left: 50px;
+	}
+	.attorney .btn-link{
+		padding-left: 145px;
+	}
+	.attorney .inner-do .inner-content h5{
+		font-size: 18px;
+	}
+	.language{
+		padding: 40px 0px;
+	}
+	.language .title .divider{
+		width: 60px;
+	}
+	.language .title h2{
+		font-size: 36px;
+		list-style: 46px;
+	}
+	.language .title{
+		padding: 0px 0px 40px;
+	}
+	.language h5{
+		font-size: 18px;
+		line-height: 28px;
+		text-align: center;
+	}
+	.language p{
+		font-size: 13px;
+		line-height: 23px;
+		text-align: center;
+	}
+	.language .btn-link{
+		padding-left: 155px;
+		padding-bottom: 20px;
+	}
+	.contact-us{
+		padding: 40px 0px;	
+	}
+	.contact-us .title .divider{
+		width: 60px;	
+	}
+	.contact-us .title h2{
+		font-size: 36px;
+    	line-height: 46px;
+	}
+	.contact-us .title{
+		padding: 0px 0px 40px;
+	}
+	.main-form .btn-info{
+		padding: 8px 55px;
+	}
+	footer{
+		padding-top: 40px;
+	}
+	.footer-bottom p{
+		font-size: 12px;
+		margin-top: -20px;
+	}
+	.socials{
+		margin: 10px 0px 10px 0px;
+	}
+	/*css end*/
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+	/*css start*/
+
+	.header{
+		padding: 10px 0px;
+	}
+	.navbar-toggler .fa{
+		color: #28377e;
+	}
+	.banner-section h1{
+		font-size: 38px;
+		line-height: 48px;
+	}
+	.about-us{
+		padding: 40px 0px;
+	}
+	.about-us .about-inner .title .divider{
+		width: 60px;
+		margin-left: 155px;
+	}
+	.about-us .about-inner .title h2{
+		font-size: 36px;
+		line-height: 46px;
+		text-align: center;
+	}
+	.about-us .about-inner p{
+		font-size: 12px;
+		line-height: 22px;
+	}
+	.what-do{
+		padding: 50px 0px;
+	}
+	.what-do .title {
+    	width: 100%;
+    	padding: 0px 0px 40px;
+	}
+	.what-do .title .divider{
+		width: 60px;
+	}
+	.what-do .title h2{
+		font-size: 36px;
+		line-height: 46px;
+	}
+	.inner-content h5{
+		font-size: 18px;
+	}
+	.img-fluid {
+    	padding-bottom: 10px;
+	}
+	.attorney .title {
+   	 	padding: 30px 0px 20px;
+	}
+	.attorney .title .divider{
+		width: 60px;
+		margin-left: 155px;
+	}
+	.attorney .title h2{
+		font-size: 36px;
+    	line-height: 46px;
+    	text-align: center;
+	}
+	.desktop{
+		display: none;
+	}
+	.mobile{
+		display: block;
+	}
+	.attorney{
+		padding: 20px 0px;
+	}
+	.attorney p{
+		font-size: 14px;
+		line-height: 24px;
+		text-align: center;
+		padding-left: 50px;
+	}
+	.attorney .btn-link{
+		padding-left: 145px;
+	}
+	.attorney .inner-do .inner-content h5{
+		font-size: 18px;
+	}
+	.language{
+		padding: 40px 0px;
+	}
+	.language .title .divider{
+		width: 60px;
+	}
+	.language .title h2{
+		font-size: 36px;
+		list-style: 46px;
+	}
+	.language .title{
+		padding: 0px 0px 40px;
+	}
+	.language h5{
+		font-size: 18px;
+		line-height: 28px;
+		text-align: center;
+	}
+	.language p{
+		font-size: 13px;
+		line-height: 23px;
+		text-align: center;
+	}
+	.language .btn-link{
+		padding-left: 155px;
+		padding-bottom: 20px;
+	}
+	.contact-us{
+		padding: 40px 0px;	
+	}
+	.contact-us .title .divider{
+		width: 60px;	
+	}
+	.contact-us .title h2{
+		font-size: 36px;
+    	line-height: 46px;
+	}
+	.contact-us .title{
+		padding: 0px 0px 40px;
+	}
+	.main-form .btn-info{
+		padding: 8px 55px;
+	}
+	footer{
+		padding-top: 40px;
+	}
+	.footer-bottom p{
+		font-size: 12px;
+		margin-top: -20px;
+	}
+	.socials{
+		margin: 10px 0px 10px 0px;
+	}
+	/*css end*/
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+	/*css start*/
+	/*css end*/
+}
